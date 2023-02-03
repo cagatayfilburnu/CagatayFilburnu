@@ -1,11 +1,18 @@
 ### ***Merhaba!, Hi there!*** 👋
 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/cagatayfilburnu/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/cagatayfilburnu">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cagatayfilburnu/)
 <!--
 **cagatayfilburnu/CagatayFilburnu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cagatayfilburnu/)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
