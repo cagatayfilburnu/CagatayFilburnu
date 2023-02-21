@@ -29,7 +29,7 @@
 - 🏫 I'm student who is studying Industrial Engineering as a major and Management Information Systems as a minor in Kadir Has University from Istanbul 🇹🇷.
 - 💻 I'm enthuastic about data science, machine learning and artificial intelligence. So, I develop myself about this concepts.
 - ⭐ When I am graduate, I want to start MSc about Data Analytics, Computer Science or Management Information System. Besides, I aim to work in roles that are about new oil "Data"
-- You can contact me with [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cagatayfilburnu)
+- You can contact me with [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cagatayfilburnu) or **cagatayfilburnu@gmail.com**
 
 ---
 
