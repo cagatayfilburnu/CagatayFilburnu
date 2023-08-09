@@ -74,3 +74,7 @@ https://gprm.itsvg.ina/
 -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!--
+ConvergenceError: 
+The model did not converge. Try adding a larger penalizer to see if that helps convergence.
+-->
