@@ -26,9 +26,11 @@
 ---
 
 ### :man_technologist: Information About Me:
-- 🏫 I'm student who is studying Industrial Engineering as a major and Management Information Systems as a minor in Kadir Has University from Istanbul 🇹🇷.
-- 💻 I'm enthuastic about data science, machine learning and artificial intelligence. So, I develop myself about this concepts.
-- ⭐ When I am graduate, I want to start MSc about Data Analytics, Computer Science or Management Information System. Besides, I aim to work in roles that are about new oil "Data".
+🎓 I graduated from Kadir Has University with a major in Industrial Engineering and a minor in Management Information Systems.
+🎓 I am currently pursuing an MSc in Information Technologies at Galatasaray University.
+📊 I work as a Data Analyst in the CRM & Growth field.
+💻 I’m enthusiastic about data science, machine learning, and artificial intelligence, and I continue to improve myself in these areas.
+⭐ In the future, I aim to take part in data-driven projects and strategic roles centered around the “new oil” — data.
 - You can contact me with [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/cagatayfilburnu)
  or **cagatayfilburnu@gmail.com**
 
